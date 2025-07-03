@@ -285,7 +285,7 @@
       "description": "Support for CSV ([Comma-separated Values](https://en.wikipedia.org/wiki/Comma-separated_values))",
       "sourceRepository": "https://github.com/ruby/csv",
       "rubygemsLink": "https://rubygems.org/gems/csv",
-      "rdocLink": "https://rubyapi.org/o/csv",
+      "rdocLink": "https://ruby.github.io/csv",
       "alternatives": {
         "smarter_csv": "https://github.com/tilo/smarter_csv"
       },
